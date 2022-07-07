@@ -1,0 +1,68 @@
+@options
+@argfile
+-classpath
+'C:/Users/Nicolas/.m2/repository/org/netbeans/external/AbsoluteLayout/RELEASE125/AbsoluteLayout-RELEASE125.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/Nicolas/Desktop/bj/blackjack/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Nicolas/Desktop/bj/blackjack/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'blackjack 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'blackjack 1.0-SNAPSHOT API'
+'C:/Users/Nicolas/Desktop/bj/blackjack/src/main/java/bj.java'
+'C:/Users/Nicolas/Desktop/bj/blackjack/src/main/java/database.java'
+'C:/Users/Nicolas/Desktop/bj/blackjack/src/main/java/loading.java'
+'C:/Users/Nicolas/Desktop/bj/blackjack/src/main/java/Login.java'
+'C:/Users/Nicolas/Desktop/bj/blackjack/src/main/java/Menu.java'
+'C:/Users/Nicolas/Desktop/bj/blackjack/src/main/java/Register.java'
+C:\Users\Nicolas\.m2\repository\org\netbeans\external\AbsoluteLayout\RELEASE125\AbsoluteLayout-RELEASE125.jar = 1653505730388
+C:\Users\Nicolas\Desktop\bj\blackjack\src\main\java\bj.form = 1654024203048
+C:\Users\Nicolas\Desktop\bj\blackjack\src\main\java\bj.java = 1654024203085
+C:\Users\Nicolas\Desktop\bj\blackjack\src\main\java\database.form = 1653489088000
+C:\Users\Nicolas\Desktop\bj\blackjack\src\main\java\database.java = 1653489088000
+C:\Users\Nicolas\Desktop\bj\blackjack\src\main\java\loading.form = 1653832421477
+C:\Users\Nicolas\Desktop\bj\blackjack\src\main\java\loading.java = 1653832421505
+C:\Users\Nicolas\Desktop\bj\blackjack\src\main\java\Login.form = 1654028179094
+C:\Users\Nicolas\Desktop\bj\blackjack\src\main\java\Login.java = 1654028179143
+C:\Users\Nicolas\Desktop\bj\blackjack\src\main\java\Menu.form = 1654028257432
+C:\Users\Nicolas\Desktop\bj\blackjack\src\main\java\Menu.java = 1654028257483
+C:\Users\Nicolas\Desktop\bj\blackjack\src\main\java\Register.form = 1654030165989
+C:\Users\Nicolas\Desktop\bj\blackjack\src\main\java\Register.java = 1654097499784
+C:\Users\Nicolas\Desktop\bj\blackjack\src\main\java = 1654027983571
+C:\Users\Nicolas\Desktop\bj\blackjack\target\site\apidocs\allclasses-frame.html = 1654098593182
+C:\Users\Nicolas\Desktop\bj\blackjack\target\site\apidocs\allclasses-noframe.html = 1654098593184
+C:\Users\Nicolas\Desktop\bj\blackjack\target\site\apidocs\bj.html = 1654098592091
+C:\Users\Nicolas\Desktop\bj\blackjack\target\site\apidocs\constant-values.html = 1654098593111
+C:\Users\Nicolas\Desktop\bj\blackjack\target\site\apidocs\database.html = 1654098592299
+C:\Users\Nicolas\Desktop\bj\blackjack\target\site\apidocs\deprecated-list.html = 1654098593178
+C:\Users\Nicolas\Desktop\bj\blackjack\target\site\apidocs\help-doc.html = 1654098593198
+C:\Users\Nicolas\Desktop\bj\blackjack\target\site\apidocs\index-all.html = 1654098593173
+C:\Users\Nicolas\Desktop\bj\blackjack\target\site\apidocs\index.html = 1654098593186
+C:\Users\Nicolas\Desktop\bj\blackjack\target\site\apidocs\loading.html = 1654098592499
+C:\Users\Nicolas\Desktop\bj\blackjack\target\site\apidocs\Login.html = 1654098592696
+C:\Users\Nicolas\Desktop\bj\blackjack\target\site\apidocs\Menu.html = 1654098592896
+C:\Users\Nicolas\Desktop\bj\blackjack\target\site\apidocs\overview-tree.html = 1654098593164
+C:\Users\Nicolas\Desktop\bj\blackjack\target\site\apidocs\package-frame.html = 1654098593091
+C:\Users\Nicolas\Desktop\bj\blackjack\target\site\apidocs\package-list = 1654098593088
+C:\Users\Nicolas\Desktop\bj\blackjack\target\site\apidocs\package-summary.html = 1654098593099
+C:\Users\Nicolas\Desktop\bj\blackjack\target\site\apidocs\package-tree.html = 1654098593103
+C:\Users\Nicolas\Desktop\bj\blackjack\target\site\apidocs\package-use.html = 1654098593157
+C:\Users\Nicolas\Desktop\bj\blackjack\target\site\apidocs\Register.html = 1654098593087
+C:\Users\Nicolas\Desktop\bj\blackjack\target\site\apidocs\script.js = 1654098593203
+C:\Users\Nicolas\Desktop\bj\blackjack\target\site\apidocs\serialized-form.html = 1654098593136
+C:\Users\Nicolas\Desktop\bj\blackjack\target\site\apidocs\stylesheet.css = 1654098593201
